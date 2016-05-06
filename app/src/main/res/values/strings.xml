@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mis contactos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_label">Nombre</string>
+    <string name="name">John Doe</string>
+    <string name="telephone_label">Telefono</string>
+    <string name="telephone">12345678</string>
+    <string name="adress_label">Direccion</string>
+    <string name="adress">Corrientes 746</string>
+    <string name="birthdate_label">Fecha de nacimiento</string>
+    <string name="birthdate">14-06-1960</string>
+    <string name="mail_label">Mail</string>
+    <string name="mail">john.doe@despegar.com</string>
+    <string name="call_label">LLAMAR</string>
+    <string name="default_contact_image">https://www.dropbox.com/sh/41gq71fit7e8lzt/AAAYo2_0hFg2WggAimetJjlqa/android_ejercicios?dl=0&amp;preview=contact_icon.png</string>
+    <string name="fav_url">https://www.dropbox.com/sh/41gq71fit7e8lzt/AAAYo2_0hFg2WggAimetJjlqa/android_ejercicios?dl=0&amp;preview=star_pink.png</string>
+</resources>
